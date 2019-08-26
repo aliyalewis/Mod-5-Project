@@ -34,11 +34,10 @@ ActiveRecord::Schema.define(version: 2019_08_26_213629) do
     t.datetime "updated_at", null: false
   end
 
-  create_table "region", force: :cascade do |t|
+  create_table "regions", force: :cascade do |t|
     t.string "name"
     t.string "countries"
     t.string "description"
-    t.string "animals"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
