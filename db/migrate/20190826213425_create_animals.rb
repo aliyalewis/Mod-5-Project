@@ -6,6 +6,8 @@ class CreateAnimals < ActiveRecord::Migration[5.2]
       t.string :description
       t.integer :region_id
       t.string :country
+      t.string :animalClass
+      t.string :image
 
       t.timestamps
     end

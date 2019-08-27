@@ -21,6 +21,8 @@ ActiveRecord::Schema.define(version: 2019_08_26_213629) do
     t.string "description"
     t.integer "region_id"
     t.string "country"
+    t.string "animalClass"
+    t.string "image"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
