@@ -24,30 +24,30 @@ Animal.create(name: "Capybara", sciName: "Hydrochoerus hydrochaeris", descriptio
 
 Animal.create(name: "LLama", sciName: "Lama glama", description: "The llama is a domesticated South American camelid, widely used as a meat and pack animal by Andean cultures since the Pre-Columbian era. Llamas typically live for 15-25 years, with some individuals surviving more than 30 years. LLamas appear to have originated from the cetnral plains of North America about 40 million years ago. As of 2007, there were over seven million llamas and alpacas in South America, and due to the importation from South America in the last 20th century, there are now over 158,000 llamas in the United States and Canada.", region_id: 2, country: "South America", animalClass: "Mammal", image: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjSgo6I46HkAhXJY98KHV-QDl4QjRx6BAgBEAQ&url=https%3A%2F%2Fpampa.com.au%2Fproducts%2Fllama-19&psig=AOvVaw3AhIbOOUpudgyKKG63wUp6&ust=1566951408326835")
 
-Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
+Animal.create(name: "Ocelot", sciName: "Leopardus pardalis", description: "The ocelot is a small wild cat native to the southwestern United States, Mexico, Central and South America. It's listed as a Least Concern on the IUCN Red List as the population is estimated to comprise more than 40,000 mature individuals and is considered stable. Its fur was once regarded as valuable, and poaching for the illegal trade is still a threat. Ocelots are marked with solid black spots, streaks and stripes.", region_id: 3, country: "Central America", animalClass: "Mammal", image: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwikusqP5KHkAhWQdN8KHVKgAwoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.nationalgeographic.com%2Fanimals%2Fmammals%2Fo%2Focelot%2F&psig=AOvVaw1i-L1vJ5ObRA4bcZdjP_uo&ust=1566951684413233")
 
-Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
-
-Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
-
-Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
-
-Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
-
-Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
-
-Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
-
-Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
-
-Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
-
-Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
-
-Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
-
-Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
-
-Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
-
-Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
+Animal.create(name: "Strawberry poison-dart from", sciName: "Oophaga pumilio", description: "The strawberry poison frog or strawberry poison-dart frog is a species of small poison dart frog found in Central America. It's common throughout its range, which extends from eastern central Nicaragua through Costa Rica and northwestern Panama. The strawberry poison frog is perhaps most famous for its widespread variation in coloration, comprising approximately 15-30 color morphs, most of which are presumed to be true-breeding.", region_id: 3, country: "Central America", animalClass: "Amphibian", image: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjv6df35KHkAhVihOAKHXIBCOoQjRx6BAgBEAQ&url=https%3A%2F%2Fblog.nationalgeographic.org%2F2013%2F11%2F21%2Fpoison-frogs-make-their-babies-toxic-too%2F&psig=AOvVaw2rFjNUje4tpxnb-gJeUfmh&ust=1566951906131117")
+#
+# Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
+#
+# Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
+#
+# Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
+#
+# Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
+#
+# Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
+#
+# Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
+#
+# Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
+#
+# Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
+#
+# Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
+#
+# Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
+#
+# Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
+#
+# Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
