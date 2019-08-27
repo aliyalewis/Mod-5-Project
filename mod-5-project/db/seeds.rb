@@ -113,5 +113,4 @@ Animal.create(name: "Cuban Tree Frog", sciName: "Osteopilus septentrionalis", de
 
 User.create(name: "Aliya", username: "liya", password: "123")
 
-
 # Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
