@@ -34,10 +34,10 @@ Animal.create(name: "Gharial", sciName: "Gavialis gangeticus", description: "The
 
 Animal.create(name: "Golden mandarin fish", sciName: "Siniperca scherzeri", description: "The golden mandarin fish, also known as the leopard mandarin fish, is a species of temperate perch native to eastern Asia. This species can reach at least 1.1 ft in standard length and 1.34 lb in weight. It's typically a yellowish-brown with blackis-brown speckles ("leopard"), but there are also birght yello ("golden") individuals, which are particularly prized in Korea and selectively breed in captivity.", region_id: 5, country: "Korea, China, Vietnam", animalClass: "Fish", image: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi5tMej6qHkAhXvm-AKHXDmCw4QjRx6BAgBEAQ&url=https%3A%2F%2Falchetron.com%2FGolden-mandarin-fish&psig=AOvVaw1QGRxxqFGEWwTFjo5EGMWM&ust=1566953353629591")
 
-# Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
-#
-# Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
-#
+Animal.create(name: "Raccoon dog", sciName: "Nyctereutes procyonoides", description: "The raccoon dog is also known as the mangut, tanuki, or neoguri. It's unrelated to raccoons, and it is a close relative of true foxes rather than the domestic dog. The raccoon dog is named for its superficial resemblance to the raccoon. In Japan, it is known as the tanuki, and has a long history in folklore. In Sweden, where it's called mårdhun, it has been treated as a potentially hazadous invasive species.", region_id: 6, country: "Eastern Europe, Asia", animalClass: "Mammal", image: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjGjOjJ66HkAhVpkuAKHeIHD-oQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fuk-england-nottinghamshire-48483773&psig=AOvVaw2-9JLeZt71LbMgzFBt-Cux&ust=1566953701498962")
+
+Animal.create(name: "Mediterranean monk seal", sciName: "Monachus monachus", description: "The Mediterranean monk seal is a monk seal belonging to the family Phocidae. As of 2015, it's estimated that fewer than 700 individuals survive in three or four isolated subpopulations in the Mediterranean, in the Aegean Sea, the archipelago of Madeira and the Cabo Blanco area in the northeastern Atlantic Ocean. It's believed to be the world's rarest pinniped species.", region_id: 6, country: "Eastern Europe, Asia", animalClass: "Mammal", image: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj03dav7KHkAhVoZN8KHcMhCWUQjRx6BAgBEAQ&url=http%3A%2F%2Fourmarinespecies.com%2Fc-seals%2Fmediterranean-monk-seals%2F&psig=AOvVaw2TN3ObIGFozGr9yimHq5Iz&ust=1566953916503470")
+
 # Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
 #
 # Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
