@@ -112,6 +112,6 @@ Animal.create(name: "West Indian Manatee", sciName: "Trichechus manatus", descri
 Animal.create(name: "Cuban Tree Frog", sciName: "Osteopilus septentrionalis", description: "The Cuban tree frog is the largest tree frog of North America. Its wide diet and ability to thrive amongst humans has made it a highly invasive species with established colonies throughout peninsular Florida, the Hawaiian island of Oahu, and throughout the Caribbean Islands. They range in size from 3 to 5.5 in (76 to 140 mm) and vary in color from olive-brown and bronze to gray or grayish-white. A nocturnal, tree-dwelling frog, it is known to eat almost anything that will fit in its mouth and to mate year-round. Cuban tree frogs are commonly available as pets; however, because the animal secretes a toxic mucus from its skin that can cause a burning sensation in the eyes, it is not an ideal pet. Further distribution of the species is believed to have been expanded by the release of these pet animals.", region_id: 9, country: "Caribbean", animalClass: "Amphibian", image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Osteopilus_septentrionalis_6.jpg")
 
 User.create(name: "Aliya", username: "liya", password: "123")
-
+User.create(name: "Aliya", username: "aaliyah", password: "123")
 
 # Animal.create(name: "", sciName: "", description: "", region_id: , country: "", animalClass: "", image: "")
