@@ -4,6 +4,8 @@ class CreateRegions < ActiveRecord::Migration[5.2]
       t.string :name
       t.string :countries
       t.string :description
+      t.integer :latitude
+      t.integer :longitude
 
       t.timestamps
     end
